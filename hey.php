@@ -5,7 +5,10 @@
         <title>Test page</title>
     </head>
     <body>
-        <p><?php echo 'This is a <strong>test</strong>!'; ?></p>
+        <p><?php echo 'This is a <strong>test</strong>! Hi'; ?></p>
     </body>
 </html>
+
+
+
                     
