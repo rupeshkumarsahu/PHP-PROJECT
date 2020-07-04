@@ -1,0 +1,68 @@
+/* CSS Document */
+	  label{
+		  font-family: 'Roboto medium';
+		  font-size: 14px;
+	  }
+	  input{
+		  color: #ECF3F8;
+	  }
+	  .steps{
+		  font-family: 'Roboto medium';
+		  font-size: 16px;
+	  }
+	  .step_com{
+		  font-family: 'Roboto regular';
+		  font-size: 13px;
+	  }
+textarea {
+   resize: none;
+}
+ 
+  .res
+  {
+ padding-top: 10px;
+ padding-left: 250px;
+ padding-right: 250px;
+  }
+  .active_tab1
+  {
+   background-color:#fff;
+   color:#232BB9;
+   font-weight: 600;
+   font-family: 'Roboto regular';
+   font-size: 11px;
+  }
+  .inactive_tab1
+  {
+   background-color: #fff;
+   color: #333;
+   cursor: not-allowed;
+   font-family: 'Roboto regular';
+   font-size: 12px;
+   opacity: 0.5;
+  }
+  .has-error
+  {
+   border-color:#cc0000;
+/*   background-color:#ffff99;*/
+  }
+	  .pad{
+		  padding-left: 250px;
+		  padding-right: 250px;
+	  }
+ @media only screen and (max-width: 991px) {
+ .res
+  {
+   
+  padding-left: 0%;
+  padding-right: 0%;
+	 
+  }
+.pad{
+	padding-left: 0%;
+    padding-right: 0%;
+		 
+	}
+ 
+ }
+
