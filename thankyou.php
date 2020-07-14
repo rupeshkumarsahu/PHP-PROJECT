@@ -55,7 +55,7 @@
     <div class="panel-body"><img src="img/localwireBanner text.png" height="50px"><span>&nbsp;Community Reporting</span></div>
   </div>
 <div class="panel" style="margin-top: -18px;">
-	<div class="panel-heading" align="center"><span class="step_com"><b>Thank You Rupesh</b></span></div>
+	<div class="panel-heading" align="center"><span class="step_com"><b>Thank You Rupesh Kumar</b></span></div>
 	<div class="panel-body" align="center"><img src="img/LW_Chtr.png"  width="60%">
 		<div align="center"></br><span class="step_com">Your response has been recorded.</span></div></div>
   </div>
